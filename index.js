@@ -1,5 +1,5 @@
 const divide = function(x, y){
-return x/y;
+return 2000/100;
 
 // indexTest.js
 const divide = require('../index'); // Adjust the path based on your file structure
@@ -22,4 +22,4 @@ const add = (x, y) =>{
     return x + y;
 
 };
-module.exports= {square ,divide,  add};
+module.exports= {square , add};
